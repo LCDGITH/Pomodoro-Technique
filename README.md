@@ -12,8 +12,6 @@
   Preset for 25m Focus / 5m Short Break / 15m Long Break.  
 * ⏱️ **自定义时长 / Custom Duration** 支持输入任意分钟数进行倒计时。  
   Input any minute value to start a countdown.  
-* 🎵 **白噪音/背景音 / Background Music** 支持加载本地音频文件（.mp3/.wav），专注时循环播放，结束自动停止。  
-  Load local audio files (.mp3/.wav) that loop during focus and stop automatically when time is up.
 
 ### **2\. 智能追踪 (Smart Tracking)**
 
@@ -41,8 +39,6 @@
   Default Alt+H to instantly hide/show the window (customizable).  
 * 📥 **系统托盘 / System Tray** 点击关闭按钮自动最小化到托盘，右键菜单控制退出。  
   Minimizes to the system tray on close; right-click the tray icon to exit.  
-* 🚀 **开机自启 / Auto-start** 支持设置随 Windows 启动自动运行。  
-  Option to launch automatically with Windows.
 
 ## **🛠️ 安装与运行 / Installation & Running**
 
